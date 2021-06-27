@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iNew-b-yte
+- 👋 Hi, I’m Naveen
 - 👀 I’m interested in ...Blockchain domain 
 - 🌱 I’m currently learning ...blockchain and java 
 - 💞️ I’m looking to collaborate on ...projects or individual to gain some experience and insights
-- 📫 How to reach me ...
+- 📫 How to reach me ...naveenbrothers26@gmail.com
 
 <!---
 iNew-b-yte/iNew-b-yte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
