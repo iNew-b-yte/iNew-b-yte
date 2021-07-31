@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen
 - 👀 I’m interested in ...Blockchain domain 
-- 🌱 I’m currently learning ...blockchain and java 
+- 🌱 I’m currently learning ...blockchain,java, solidity and smart contracts  
 - 💞️ I’m looking to collaborate on ...projects or individual to gain some experience and insights
 - 📫 How to reach me ...naveenbrothers26@gmail.com
 
